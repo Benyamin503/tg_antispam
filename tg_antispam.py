@@ -85,7 +85,7 @@ _________
 
 
 
-blocked_text = r'join|@پروپلیر|پرو پلیر|ولف|لفت|اتک|ننت|کص|کیر|گاییدم'
+blocked_text = r'join|@|پروپلیر|پرو پلیر|ولف|لفت|اتک|ننت|کص|کیر|گاییدم'
 
 blocked_type = r'mention|hashtag|bot_command|text_link|text_mention'
 
