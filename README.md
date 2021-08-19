@@ -4,7 +4,7 @@ telegram anti spam/attack bot client
 
 ## Starting Up ##
 
-1. `git clone -b stable https://github.com/Benyamin503/tg_antispam.git; cd tg_antispam`
+1. `git clone https://github.com/Benyamin503/tg_antispam.git; cd tg_antispam`
 3. `pip3 install -r requirements.txt`
 5. `python3 tg_antispam.py`
 
