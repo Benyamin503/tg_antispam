@@ -10,6 +10,10 @@ telegram anti spam/attack bot client
 
 
 
+https://user-images.githubusercontent.com/76649350/130124741-819eec88-23c4-4938-b130-58d807b9bdc3.mp4
+
+
+
 ## Requirements ##
 - Python 3.6 or above
 - Pyrogram any version
